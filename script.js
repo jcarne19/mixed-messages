@@ -1,7 +1,7 @@
 // define story inputs
 const superName = ["Josh","Yyeeeeet","Hunky Boy","Mister Mediocre","Dynamo","Pfizzle"];
-const superPower = ["run kind of fast","have perfect 20/20 hindsight",
-"turn gold into silver","travel 1 second into the future","fly but only 3 feet off the ground"];
+const superPower = ["walk kind of fast","have perfect 20/30 hindsight",
+"turn gold into copper","travel 2 seconds into the future","fly but only 6 feet off the ground"];
 const superFeat = ["stopping global warming","bringing world peace","ending terrorism","killing Thanos"];
 
 // choose random story inputs
